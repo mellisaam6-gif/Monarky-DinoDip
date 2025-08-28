@@ -2,9 +2,9 @@
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
 			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer_C",
+			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring_C",
+			"/Game/ASA/Dinos/Bison/Bison_Character_BP_C",
 			"/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
 			"/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
@@ -390,4 +390,5 @@
 		]
 	}
 }
+
 
